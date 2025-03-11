@@ -25,7 +25,8 @@
     "react-hook-form": "^7.27.1",
     "react-slick": "^0.28.1",
     "rehype-slug": "^5.0.1",
-    "xstate": "^4.30.5"
+    "xstate": "^4.30.5",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@types/chai": "^4.3.0",
